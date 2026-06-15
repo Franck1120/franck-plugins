@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "franck-plugins",
+  "version": "1.0.0",
+  "description": "Claude Code plugins by Franck1120 / Hephios Lab.",
+  "owner": {
+    "name": "Francesco \"Kekko\" Rocco",
+    "email": "kekkorocco.fr@gmail.com",
+    "url": "https://github.com/Franck1120"
+  },
+  "plugins": [
+    {
+      "name": "pluginforge",
+      "source": { "source": "github", "repo": "Franck1120/pluginforge" },
+      "description": "The plugin that builds plugins. Scaffold a publishable Claude Code plugin from a one-line idea in under 60 seconds.",
+      "version": "0.1.0",
+      "keywords": ["plugin", "scaffold", "generator", "marketplace", "developer-tools", "meta"]
+    }
+  ]
+}
