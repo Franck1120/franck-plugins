@@ -1,7 +1,6 @@
 # franck-plugins
 
-A self-hosted [Claude Code](https://code.claude.com) plugin marketplace by
-**Franck1120 / Hephios Lab**.
+A self-hosted [Claude Code](https://code.claude.com) plugin marketplace.
 
 ## Install a plugin from this marketplace
 

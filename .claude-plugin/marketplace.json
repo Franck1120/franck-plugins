@@ -2,10 +2,9 @@
   "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "franck-plugins",
   "version": "1.0.0",
-  "description": "Claude Code plugins by Franck1120 / Hephios Lab.",
+  "description": "Claude Code plugins by Franck1120.",
   "owner": {
-    "name": "Francesco \"Kekko\" Rocco",
-    "email": "kekkorocco.fr@gmail.com",
+    "name": "Franck1120",
     "url": "https://github.com/Franck1120"
   },
   "plugins": [
